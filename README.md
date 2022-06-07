@@ -11,22 +11,25 @@ Dates: June 6, 2022 to June 10, 2022
 - Keynote
 - Platform State of the Union
 
-## Sessions to Attend:
-
 ### Tuesday, June 7, 2022
 
 - [Capture machine-readable codes and text with VisionKit](capture-text-with-visionkit.md)
 - [Get the most out of Xcode Cloud](get-the-most-xcode-cloud.md)
 - [Get to know Developer Mode](developer-mode.md)
 - [Hello Swift Charts](hello-swift-charts.md)
+- [What's new in SwiftUI](whats-new-swiftui.md)
+- [What's new in Xcode](whats-new-xcode.md)
+
+## Sessions to Attend:
+
+### Tuesday, June 7, 2022
+
 - Meet desktop class iPad
 - Meet Swift Async Algorithms
 - Meet Swift Regex
 - The SwiftUI cookbook for navigation
 - Visualize and optimize Swift concurrency
 - What's new in Swift
-- [What's new in SwiftUI](whats-new-swiftui.md)
-- [What's new in Xcode](whats-new-xcode.md)
 
 ### Wednesday, June 8, 2022
 
