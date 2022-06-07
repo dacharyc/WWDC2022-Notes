@@ -1,19 +1,20 @@
 # WWDC2022-Notes
----
 
 Notes from (virtually) attending WWDC2022
 
 Dates: June 6, 2022 to June 10, 2022
 
-Sessions attended:
+## Sessions attended:
 
-Monday, June 6, 2022
+### Monday, June 6, 2022
+
 - Keynote
 - Platform State of the Union
 
-Sessions to Attend:
+## Sessions to Attend:
 
-Tuesday, June 7, 2022
+### Tuesday, June 7, 2022
+
 - Capture machine-readable codes and text with VisionKit
 - Get the most out of Xcode Cloud
 - Get to know Developer Mode
@@ -27,7 +28,8 @@ Tuesday, June 7, 2022
 - What's new in SwiftUI
 - What's new in Xcode
 
-Wednesday, June 8, 2022
+### Wednesday, June 8, 2022
+
 - Add Live Text interaction to your app
 - Bring your iOS app to the Mac
 - Build a desktop class iPad app
@@ -44,7 +46,8 @@ Wednesday, June 8, 2022
 - Use Xcode to develop a multiplatform app
 - What's new in Swift-DocC
 
-Thursday, June 9, 2022
+### Thursday, June 9, 2022
+
 - Debug Swift debugging with LLDB
 - Dive deep into Xcode Cloud for teams
 - Demystify parallelization in Xcode builds
@@ -60,7 +63,8 @@ Thursday, June 9, 2022
 - What's new in App Store Connect
 - Writing for interfaces
 
-Friday, June 10, 2022
+### Friday, June 10, 2022
+
 - Author fast and reliable tests for Xcode Cloud
 - Bring multiple windows to your SwiftUI app
 - Efficiency awaits: Background tasks in SwiftUI
@@ -69,13 +73,13 @@ Friday, June 10, 2022
 
 ### Food Truck App
 
-GitHub: https://github.com/apple/sample-food-truck
-Apple Docs: https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app
+- GitHub: https://github.com/apple/sample-food-truck
+- Apple Docs: https://developer.apple.com/documentation/swiftui/food_truck_building_a_swiftui_multiplatform_app
 
 The Food Truck App is a SwiftUI multiplatform app. It uses one app target to build for macOS, iPadOS, and iOS.
 It demonstrates the following new APIs introduced this year (which are currently still in Beta):
 
 - [NavigationSplitView](https://developer.apple.com/documentation/swiftui/navigationsplitview) / [Navigation Stack](https://developer.apple.com/documentation/swiftui/navigationstack)
-- Dynamic [Layout](https://developer.apple.com/documentation/swiftui/layout)
+- [Dynamic Layout](https://developer.apple.com/documentation/swiftui/layout)
 - [Swift Charts](https://developer.apple.com/documentation/Charts)
 - [WeatherKit](https://developer.apple.com/documentation/weatherkit) / [WeatherService](https://developer.apple.com/documentation/weatherkit/weatherservice)
