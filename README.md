@@ -17,8 +17,8 @@ Dates: June 6, 2022 to June 10, 2022
 
 - Capture machine-readable codes and text with VisionKit
 - Get the most out of Xcode Cloud
-- Get to know Developer Mode
-- Hello Swift Charts
+- [Get to know Developer Mode](developer-mode.md)
+- [Hello Swift Charts](hello-swift-charts.md)
 - Meet desktop class iPad
 - Meet Swift Async Algorithms
 - Meet Swift Regex
