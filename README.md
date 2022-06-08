@@ -25,6 +25,9 @@ Dates: June 6, 2022 to June 10, 2022
 ### Wednesday, June 8, 2022
 
 - [Eliminate data races with Swift Concurrency](eliminate-data-races-using-swift-concurrency.md)
+- [Embrace Swift generics](embrace-swift-generics.md)
+- [Improve the discoverability of your Swift-DocC content](improve-discoverability-docc.md)
+- [What's new in Swift-DocC](whats-new-swift-docc.md)
 
 ## Sessions to Attend:
 
@@ -43,14 +46,11 @@ Dates: June 6, 2022 to June 10, 2022
 - Compose custom layouts with SwiftUI
 - Design an effective chart
 - Design app experiences with charts
-- Embrace Swift generics
-- Improve the discoverability of your Swift-DocC content
 - Meet distributed actors in Swift
 - Streamline local authorization flows
 - Swift Charts: Raise the bar
 - Swift Regex: Beyond the basics
 - Use Xcode to develop a multiplatform app
-- What's new in Swift-DocC
 
 ### Thursday, June 9, 2022
 
