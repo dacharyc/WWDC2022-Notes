@@ -17,6 +17,7 @@ Dates: June 6, 2022 to June 10, 2022
 - [Get the most out of Xcode Cloud](get-the-most-xcode-cloud.md)
 - [Get to know Developer Mode](developer-mode.md)
 - [Hello Swift Charts](hello-swift-charts.md)
+- [What's new in Swift](whats-new-swift.md)
 - [What's new in SwiftUI](whats-new-swiftui.md)
 - [What's new in Xcode](whats-new-xcode.md)
 
@@ -29,7 +30,6 @@ Dates: June 6, 2022 to June 10, 2022
 - Meet Swift Regex
 - The SwiftUI cookbook for navigation
 - Visualize and optimize Swift concurrency
-- What's new in Swift
 
 ### Wednesday, June 8, 2022
 
