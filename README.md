@@ -20,6 +20,7 @@ Dates: June 6, 2022 to June 10, 2022
 - [What's new in Swift](whats-new-swift.md)
 - [What's new in SwiftUI](whats-new-swiftui.md)
 - [What's new in Xcode](whats-new-xcode.md)
+- [The SwiftUI cookbook for navigation](swiftui-cookbook-for-navigation.md)
 
 ## Sessions to Attend:
 
@@ -28,7 +29,6 @@ Dates: June 6, 2022 to June 10, 2022
 - Meet desktop class iPad
 - Meet Swift Async Algorithms
 - Meet Swift Regex
-- The SwiftUI cookbook for navigation
 - Visualize and optimize Swift concurrency
 
 ### Wednesday, June 8, 2022
