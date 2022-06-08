@@ -22,6 +22,10 @@ Dates: June 6, 2022 to June 10, 2022
 - [What's new in Xcode](whats-new-xcode.md)
 - [The SwiftUI cookbook for navigation](swiftui-cookbook-for-navigation.md)
 
+### Wednesday, June 8, 2022
+
+- [Eliminate data races with Swift Concurrency](eliminate-data-races-using-swift-concurrency.md)
+
 ## Sessions to Attend:
 
 ### Tuesday, June 7, 2022
@@ -39,7 +43,6 @@ Dates: June 6, 2022 to June 10, 2022
 - Compose custom layouts with SwiftUI
 - Design an effective chart
 - Design app experiences with charts
-- Eliminate data races with Swift Concurrency
 - Embrace Swift generics
 - Improve the discoverability of your Swift-DocC content
 - Meet distributed actors in Swift
