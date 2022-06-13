@@ -30,6 +30,18 @@ Dates: June 6, 2022 to June 10, 2022
 - [Embrace Swift generics](embrace-swift-generics.md)
 - [Improve the discoverability of your Swift-DocC content](improve-discoverability-docc.md)
 - [What's new in Swift-DocC](whats-new-swift-docc.md)
+- [Meet distributed actors in Swift](meet-distributed-actors-swift.md)
+
+### Thursday, June 9, 2022
+
+- [Debug Swift debugging with LLDB](debug-swift-debugging-lldb.md)
+- [Deep dive into Xcode Cloud for teams](xcode-cloud-for-teams.md)
+
+### Friday, June 10, 2022
+
+- [Author fast and reliable tests for Xcode Cloud](author-swaft-reliable-tests-xcode-cloud.md)
+- [Efficiency awaits: Background tasks in SwiftUI](background-tasks-swiftui.md)
+- [Bring multiple windows to your SwiftUI app](multiple-windows-swiftui.md)
 
 ## Sessions to Attend:
 
@@ -46,7 +58,6 @@ Dates: June 6, 2022 to June 10, 2022
 - Compose custom layouts with SwiftUI
 - Design an effective chart
 - Design app experiences with charts
-- Meet distributed actors in Swift
 - Streamline local authorization flows
 - Swift Charts: Raise the bar
 - Swift Regex: Beyond the basics
@@ -54,8 +65,6 @@ Dates: June 6, 2022 to June 10, 2022
 
 ### Thursday, June 9, 2022
 
-- Debug Swift debugging with LLDB
-- Dive deep into Xcode Cloud for teams
 - Demystify parallelization in Xcode builds
 - Design protocol interfaces in Swift
 - Enhance your Sign in with Apple experience
@@ -69,13 +78,11 @@ Dates: June 6, 2022 to June 10, 2022
 - What's new in App Store Connect
 - Writing for interfaces
 
-### Friday, June 10, 2022
-
-- Author fast and reliable tests for Xcode Cloud
-- Bring multiple windows to your SwiftUI app
-- Efficiency awaits: Background tasks in SwiftUI
-
 ## Resources
+
+### Other Notes
+
+- [WWDC SwiftUI Lounge Apple Engineer-answered Questions](https://onmyway133.com/posts/wwdc-swiftui-lounge/)
 
 ### Food Truck App
 
